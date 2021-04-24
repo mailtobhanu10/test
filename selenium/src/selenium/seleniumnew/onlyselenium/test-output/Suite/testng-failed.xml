@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browser" value="ie"/>
+  <test name="firefoxtestcases(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="exptwobrow.Google1">
+        <methods>
+          <include name="search" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- exptwobrow.Google1 -->
+    </classes>
+  </test> <!-- firefoxtestcases(failed) -->
+  <test name="chrometestcases(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="exptwobrow.Google1">
+        <methods>
+          <include name="search" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- exptwobrow.Google1 -->
+    </classes>
+  </test> <!-- chrometestcases(failed) -->
+  <test name="ietestcases(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="exptwobrow.Google1">
+        <methods>
+          <include name="search" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- exptwobrow.Google1 -->
+    </classes>
+  </test> <!-- ietestcases(failed) -->
+</suite> <!-- Failed suite [Suite] -->

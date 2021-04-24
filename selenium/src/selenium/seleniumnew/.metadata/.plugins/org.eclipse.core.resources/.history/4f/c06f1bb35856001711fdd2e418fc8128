@@ -1,0 +1,19 @@
+package onlyselenium;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+public class WordPressLogin {
+	@Test
+public void loginWordpress()
+{
+		FirefoxDriver driver=new FirefoxDriver();
+		driver.manage().window().maximize();
+		driver.get("https://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2F");
+		driver.findElement(By.id("user_login")).sendKeys("");
+		driver.findElement(By.id("user_pass")).sendKeys("");
+		driver.findElement(By.name("wp-submit")).click();	 
+	}
+
+}

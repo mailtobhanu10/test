@@ -1,0 +1,27 @@
+
+<suite name="Suite"> 
+  <test name="firefoxtestcases">
+  <parameter name="browser" value="firefox"/>
+  <classes>
+  <class name="exptwobrow.Google1"/>
+  </classes>
+  </test>
+
+
+  <test name="chrometestcases">
+  <parameter name="browser" value="chrome"/>
+  <classes>
+  <class name="exptwobrow.Google1"/>
+  </classes>
+  </test>
+  
+  
+  
+
+  <test name="ietestcases">
+  <parameter name="browser" value="ie"/>
+  <classes>
+  <class name="exptwobrow.Google1"/>
+  </classes>
+  </test><!-- Test -->
+  </suite> <!-- Suite -->

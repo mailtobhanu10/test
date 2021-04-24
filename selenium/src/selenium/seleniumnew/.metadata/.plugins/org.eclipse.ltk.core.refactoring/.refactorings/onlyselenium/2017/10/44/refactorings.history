@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;sample&apos; to &apos;sample3&apos;&#x0D;&#x0A;- Original project: &apos;onlyselenium&apos;&#x0D;&#x0A;- Original element: &apos;onlyselenium/src/sample&apos;&#x0D;&#x0A;- Renamed element: &apos;onlyselenium/src/sample3&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;sample&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;sample" name="sample3" qualified="false" references="true" stamp="1509338264374" textual="false" version="1.0"/>
+</session>

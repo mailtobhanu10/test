@@ -1,0 +1,9 @@
+
+<suite name="bhanu" >
+
+<test name="Action Class" allow-return-values="true">  
+  <classes>    
+	 <class name="sample.ActionClass"/>	
+ </classes>
+</test>
+</suite>

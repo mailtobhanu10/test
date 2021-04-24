@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="bhanu"> 
+<test name="Flipkart">
+<classes>
+<class name="onlyselenium.Flipkart"/>
+</classes>
+</test>
+</suite>

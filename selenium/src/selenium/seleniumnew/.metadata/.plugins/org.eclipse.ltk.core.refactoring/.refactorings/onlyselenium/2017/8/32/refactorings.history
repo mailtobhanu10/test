@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Karvy.java&apos; to &apos;onlyselenium/src/sample&apos;&#x0D;&#x0A;- Original project: &apos;onlyselenium&apos;&#x0D;&#x0A;- Destination element: &apos;onlyselenium/src/sample&apos;&#x0D;&#x0A;- Original element: &apos;onlyselenium.Karvy.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;sample" element1="/src&lt;onlyselenium{Karvy.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1502554891571" units="1" version="1.0"/>
+</session>

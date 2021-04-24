@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/fontbox-1.6.0-for-pdfbox.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/fontbox-1.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/jxl.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/pdfbox-1.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/pdfbox-2.0.3-src.zip"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/pdfbox-app-1.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/selenium-java-2.47.1.zip"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/selenium-server-standalone-2.47.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/chromedriver.exe"/>
+	<classpathentry kind="lib" path="F:/softwares/libraryfiles/IEDriverServer.exe"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

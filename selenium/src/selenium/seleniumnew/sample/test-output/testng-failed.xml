@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="sample.Assert4">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="login"/>
+          <include name="passwordchange"/>
+          <include name="aeforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="AfterMethod"/>
+          <include name="AfterTest"/>
+          <include name="logout"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- sample.Assert4 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
